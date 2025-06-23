@@ -8,3 +8,4 @@ Himanshu Ranjan's Java learning journey for backend development.
 	- Merge Sorted Array
 	- Best Time to Buy and Sell Stock
 	- Move Zeroes
+	- Contains Duplicate
