@@ -10,3 +10,4 @@ Himanshu Ranjan's Java learning journey for backend development.
 	- Move Zeroes
 	- Contains Duplicate
 	- Maximum SubArray
+	- Three Sum
